@@ -1,0 +1,12 @@
+Responde a las siguientes preguntas:
+
+1.La salida son mensajes intercalados de T1 y T2 de manera aleatoria con numero entre el 0 y el 10000 y si, es la salida esperada del ejemplo de hilos.
+
+2.Se intercalan mucho mas seguidos los mensajes y el propósito seria como cederle el turno al siguiente para lograr que se ejecuten los dos casi al mismo tiempo.
+
+
+3.Esta modificación veo que le da casi por completo la prioridad al T1, y así acaba primero el T1 llegando al 9999 que el T2
+
+
+
+4.Pasa lo mismo que en el punto 3 pero ahora dándole prioridad al hilo T2 y así mismo acabando primero
